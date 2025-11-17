@@ -1,7 +1,7 @@
 {
-  "name": "place-analysis-maya-eiendom",
+  "name": "place-analysis-eiendomsspar",
   "version": "1.0.0",
-  "description": "Place analysis website for Maya Eiendom - Oslo properties",
+  "description": "Place analysis website for Eiendomsspar - Property portfolio",
   "main": "index.js",
   "scripts": {
     "dev": "next dev",

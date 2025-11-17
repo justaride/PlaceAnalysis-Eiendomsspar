@@ -1,0 +1,566 @@
+{
+  "id": "thorvald-meyers-gate-2",
+  "adresse": "Thorvald Meyers gate 2",
+  "beskrivelse": "Placeanalyse for Thorvald Meyers gate 2",
+  "heroImage": "/images/plaace/thorvald-meyers-gate-2/hero.jpg",
+  "mapImage": "/images/plaace/thorvald-meyers-gate-2/map.png",
+  "aktorer": [
+    {
+      "navn": "Rema 1000 Torshov",
+      "omsetning": 183,
+      "yoyVekst": 2,
+      "ansatte": 46,
+      "markedsandel": 16.31
+    },
+    {
+      "navn": "Meny Ringnes Park",
+      "omsetning": 120,
+      "yoyVekst": -0.7,
+      "ansatte": 63,
+      "markedsandel": 10.71
+    },
+    {
+      "navn": "Extra Sannergata",
+      "omsetning": 68,
+      "yoyVekst": 9,
+      "ansatte": 12,
+      "markedsandel": 6.07
+    },
+    {
+      "navn": "Birk Sport Oslo",
+      "omsetning": 64,
+      "yoyVekst": 42,
+      "ansatte": 15,
+      "markedsandel": 5.67
+    },
+    {
+      "navn": "Wallmans Salonger Oslo AS",
+      "omsetning": 56,
+      "yoyVekst": -14,
+      "ansatte": 150,
+      "markedsandel": 5.01
+    },
+    {
+      "navn": "Rema 1000 Thorvald Meyers Gate",
+      "omsetning": 48,
+      "yoyVekst": -5,
+      "ansatte": 21,
+      "markedsandel": 4.3
+    },
+    {
+      "navn": "Jysk Ringnes Park",
+      "omsetning": 44,
+      "yoyVekst": 19,
+      "ansatte": 17,
+      "markedsandel": 3.89
+    },
+    {
+      "navn": "Apotek Ringnes Park Senter",
+      "omsetning": 40,
+      "yoyVekst": 19,
+      "ansatte": 27,
+      "markedsandel": 3.53
+    },
+    {
+      "navn": "Elixia Ringnes Park",
+      "omsetning": 37,
+      "yoyVekst": 0.3,
+      "ansatte": 119,
+      "markedsandel": 3.27
+    },
+    {
+      "navn": "Vitusapotek Torshov Torg",
+      "omsetning": 37,
+      "yoyVekst": 31,
+      "ansatte": 19,
+      "markedsandel": 3.29
+    },
+    {
+      "navn": "Bispevika AS",
+      "omsetning": 37,
+      "yoyVekst": 1019,
+      "ansatte": 56,
+      "markedsandel": 3.31
+    },
+    {
+      "navn": "Lexington Storo Storsenter",
+      "omsetning": 30,
+      "yoyVekst": 16,
+      "ansatte": 32,
+      "markedsandel": 2.68
+    },
+    {
+      "navn": "Joker Toftes Gate",
+      "omsetning": 23,
+      "yoyVekst": 4,
+      "ansatte": 13,
+      "markedsandel": 2.05
+    },
+    {
+      "navn": "Bosu AS",
+      "omsetning": 19,
+      "yoyVekst": 28,
+      "ansatte": 12,
+      "markedsandel": 1.72
+    },
+    {
+      "navn": "Noahs Ark",
+      "omsetning": 18,
+      "yoyVekst": 3,
+      "ansatte": 13,
+      "markedsandel": 1.58
+    },
+    {
+      "navn": "Revir Eger AS",
+      "omsetning": 18,
+      "yoyVekst": 48,
+      "ansatte": 13,
+      "markedsandel": 1.62
+    },
+    {
+      "navn": "Tmg 11 AS",
+      "omsetning": 16,
+      "yoyVekst": 0,
+      "ansatte": 30,
+      "markedsandel": 1.41
+    },
+    {
+      "navn": "Månefisken",
+      "omsetning": 16,
+      "yoyVekst": 2,
+      "ansatte": 14,
+      "markedsandel": 1.46
+    },
+    {
+      "navn": "Dumpling AS",
+      "omsetning": 15,
+      "yoyVekst": null,
+      "ansatte": 21,
+      "markedsandel": 1.34
+    },
+    {
+      "navn": "Gevir Grünerløkka",
+      "omsetning": 14,
+      "yoyVekst": -11,
+      "ansatte": 13,
+      "markedsandel": 1.2
+    },
+    {
+      "navn": "Sea Sushi Bar",
+      "omsetning": 13,
+      "yoyVekst": -8,
+      "ansatte": 12,
+      "markedsandel": 1.14
+    },
+    {
+      "navn": "Sannergaten Skotøymagasin AS",
+      "omsetning": 12,
+      "yoyVekst": -14,
+      "ansatte": 12,
+      "markedsandel": 1.06
+    },
+    {
+      "navn": "Jernia Ringens Park",
+      "omsetning": 12,
+      "yoyVekst": -15,
+      "ansatte": 11,
+      "markedsandel": 1.1
+    },
+    {
+      "navn": "Hanske Hallen AS",
+      "omsetning": 11,
+      "yoyVekst": 8,
+      "ansatte": 9,
+      "markedsandel": 0.96
+    },
+    {
+      "navn": "Kaffebrenneriet Birkelunden",
+      "omsetning": 10,
+      "yoyVekst": 4,
+      "ansatte": 12,
+      "markedsandel": 0.85
+    },
+    {
+      "navn": "Birkelundens Lille Franske",
+      "omsetning": 10,
+      "yoyVekst": 16,
+      "ansatte": 15,
+      "markedsandel": 0.88
+    },
+    {
+      "navn": "Tøffelgig AS",
+      "omsetning": 9,
+      "yoyVekst": 13,
+      "ansatte": 8,
+      "markedsandel": 0.79
+    },
+    {
+      "navn": "Chili Grunerløkka AS",
+      "omsetning": 9,
+      "yoyVekst": 14,
+      "ansatte": 8,
+      "markedsandel": 0.81
+    },
+    {
+      "navn": "Supreme Roastworks AS",
+      "omsetning": 9,
+      "yoyVekst": 3,
+      "ansatte": 18,
+      "markedsandel": 0.84
+    },
+    {
+      "navn": "Antikkvarehuset",
+      "omsetning": 8,
+      "yoyVekst": 3,
+      "ansatte": 3,
+      "markedsandel": 0.67
+    },
+    {
+      "navn": "Hagen & Trønsdal AS",
+      "omsetning": 8,
+      "yoyVekst": -2,
+      "ansatte": 11,
+      "markedsandel": 0.71
+    },
+    {
+      "navn": "Mester Grønn Ringnes Park",
+      "omsetning": 8,
+      "yoyVekst": -3,
+      "ansatte": 9,
+      "markedsandel": 0.74
+    },
+    {
+      "navn": "Løkka Sushi AS",
+      "omsetning": 7,
+      "yoyVekst": 38,
+      "ansatte": 8,
+      "markedsandel": 0.64
+    },
+    {
+      "navn": "Baker Samson Grünerløkka",
+      "omsetning": 6,
+      "yoyVekst": -14,
+      "ansatte": 10,
+      "markedsandel": 0.54
+    },
+    {
+      "navn": "Roif AS",
+      "omsetning": 6,
+      "yoyVekst": 6,
+      "ansatte": 14,
+      "markedsandel": 0.55
+    },
+    {
+      "navn": "Fomoto AS",
+      "omsetning": 5,
+      "yoyVekst": 29,
+      "ansatte": 7,
+      "markedsandel": 0.43
+    },
+    {
+      "navn": "Løkka Bar & Kjøkken AS",
+      "omsetning": 5,
+      "yoyVekst": -11,
+      "ansatte": 5,
+      "markedsandel": 0.44
+    },
+    {
+      "navn": "Lush Dive AS",
+      "omsetning": 5,
+      "yoyVekst": 15,
+      "ansatte": 3,
+      "markedsandel": 0.49
+    },
+    {
+      "navn": "Winther Blomst Interflora",
+      "omsetning": 4,
+      "yoyVekst": -14,
+      "ansatte": 5,
+      "markedsandel": 0.31
+    },
+    {
+      "navn": "Fotobaren AS",
+      "omsetning": 4,
+      "yoyVekst": -0.3,
+      "ansatte": 11,
+      "markedsandel": 0.36
+    },
+    {
+      "navn": "Brinner",
+      "omsetning": 4,
+      "yoyVekst": null,
+      "ansatte": 8,
+      "markedsandel": 0.37
+    },
+    {
+      "navn": "Scorpius Import AS",
+      "omsetning": 4,
+      "yoyVekst": -15,
+      "ansatte": 9,
+      "markedsandel": 0.39
+    },
+    {
+      "navn": "Kokkcoop",
+      "omsetning": 4,
+      "yoyVekst": -8,
+      "ansatte": 7,
+      "markedsandel": 0.4
+    },
+    {
+      "navn": "Perugina Pizzeria AS",
+      "omsetning": 3,
+      "yoyVekst": -4,
+      "ansatte": 3,
+      "markedsandel": 0.22
+    },
+    {
+      "navn": "Oslo Skjønnhet Og Velvære AS",
+      "omsetning": 3,
+      "yoyVekst": 5,
+      "ansatte": 1,
+      "markedsandel": 0.25
+    },
+    {
+      "navn": "Baker Nordby AS",
+      "omsetning": 3,
+      "yoyVekst": -10,
+      "ansatte": 6,
+      "markedsandel": 0.26
+    },
+    {
+      "navn": "Namaste AS",
+      "omsetning": 3,
+      "yoyVekst": 5,
+      "ansatte": 6,
+      "markedsandel": 0.27
+    },
+    {
+      "navn": "Sunt & Godt Løkka AS",
+      "omsetning": 3,
+      "yoyVekst": 3,
+      "ansatte": 5,
+      "markedsandel": 0.28
+    },
+    {
+      "navn": "Hyggebasert Føretak AS",
+      "omsetning": 3,
+      "yoyVekst": -17,
+      "ansatte": 2,
+      "markedsandel": 0.28
+    },
+    {
+      "navn": "Monky Productions AS",
+      "omsetning": 2,
+      "yoyVekst": -14,
+      "ansatte": 1,
+      "markedsandel": 0.14
+    },
+    {
+      "navn": "Halvmåne Styling AS",
+      "omsetning": 2,
+      "yoyVekst": -2,
+      "ansatte": 1,
+      "markedsandel": 0.14
+    },
+    {
+      "navn": "Mette Johrde AS",
+      "omsetning": 2,
+      "yoyVekst": 2,
+      "ansatte": 1,
+      "markedsandel": 0.15
+    },
+    {
+      "navn": "Haar Oslo",
+      "omsetning": 2,
+      "yoyVekst": 3,
+      "ansatte": 1,
+      "markedsandel": 0.17
+    },
+    {
+      "navn": "Jord AS",
+      "omsetning": 2,
+      "yoyVekst": -26,
+      "ansatte": 1,
+      "markedsandel": 0.18
+    },
+    {
+      "navn": "Narvesen Thorvald Meyersgate",
+      "omsetning": 2,
+      "yoyVekst": -56,
+      "ansatte": 5,
+      "markedsandel": 0.18
+    },
+    {
+      "navn": "Modern Design Ringnes AS",
+      "omsetning": 2,
+      "yoyVekst": -0.6,
+      "ansatte": 8,
+      "markedsandel": 0.19
+    },
+    {
+      "navn": "Good Vibes Vintage AS",
+      "omsetning": 2,
+      "yoyVekst": -8,
+      "ansatte": 4,
+      "markedsandel": 0.2
+    },
+    {
+      "navn": "Thorvald Pizza",
+      "omsetning": 2,
+      "yoyVekst": 59,
+      "ansatte": 6,
+      "markedsandel": 0.21
+    },
+    {
+      "navn": "Pizzeria Ricetta",
+      "omsetning": 2,
+      "yoyVekst": 72,
+      "ansatte": 3,
+      "markedsandel": 0.22
+    },
+    {
+      "navn": "Strokes AS",
+      "omsetning": 1,
+      "yoyVekst": -13,
+      "ansatte": 1,
+      "markedsandel": 0.09
+    },
+    {
+      "navn": "Central Park Frisør AS",
+      "omsetning": 1,
+      "yoyVekst": -5,
+      "ansatte": 1,
+      "markedsandel": 0.1
+    },
+    {
+      "navn": "Vogts AS",
+      "omsetning": 1,
+      "yoyVekst": 0,
+      "ansatte": 21,
+      "markedsandel": 0.11
+    },
+    {
+      "navn": "Halber Mensch AS",
+      "omsetning": 1,
+      "yoyVekst": 3,
+      "ansatte": 1,
+      "markedsandel": 0.12
+    },
+    {
+      "navn": "Your Beauty Tasnim Waheeda Waheed",
+      "omsetning": 780,
+      "yoyVekst": -30,
+      "ansatte": 1,
+      "markedsandel": 0.07
+    },
+    {
+      "navn": "Dolly Dimple's Sagene",
+      "omsetning": 780,
+      "yoyVekst": -3,
+      "ansatte": 0,
+      "markedsandel": 0.07
+    },
+    {
+      "navn": "Eda & Ela Rens AS",
+      "omsetning": 780,
+      "yoyVekst": -11,
+      "ansatte": 1,
+      "markedsandel": 0.07
+    },
+    {
+      "navn": "Åpent Bakeri Drift AS Avd Øvre Foss",
+      "omsetning": 390,
+      "yoyVekst": null,
+      "ansatte": 0,
+      "markedsandel": 0.03
+    },
+    {
+      "navn": "Buer Gallery AS",
+      "omsetning": 370,
+      "yoyVekst": null,
+      "ansatte": 1,
+      "markedsandel": 0.03
+    },
+    {
+      "navn": "Meer Haar AS",
+      "omsetning": 290,
+      "yoyVekst": null,
+      "ansatte": 0,
+      "markedsandel": 0.03
+    },
+    {
+      "navn": "Bagel & Juice Cc Vest",
+      "omsetning": 110,
+      "yoyVekst": -90,
+      "ansatte": 1,
+      "markedsandel": 0.01
+    },
+    {
+      "navn": "Lekestue AS",
+      "omsetning": null,
+      "yoyVekst": -100,
+      "ansatte": 2,
+      "markedsandel": 0
+    }
+  ],
+  "plaaceData": {
+    "rapportDato": "2025-11-17T14:02:00.004Z",
+    "screenshots": [
+      {
+        "filnavn": "nokkeldata",
+        "path": "/images/plaace/thorvald-meyers-gate-2/nokkeldata.jpg",
+        "beskrivelse": "Nøkkeldata og statistikk",
+        "kategori": "oversikt"
+      },
+      {
+        "filnavn": "korthandel",
+        "path": "/images/plaace/thorvald-meyers-gate-2/korthandel.jpg",
+        "beskrivelse": "Korthandel og transaksjoner",
+        "kategori": "marked"
+      },
+      {
+        "filnavn": "konkurransebildet",
+        "path": "/images/plaace/thorvald-meyers-gate-2/konkurransebildet.jpg",
+        "beskrivelse": "Konkurransebildet",
+        "kategori": "marked"
+      },
+      {
+        "filnavn": "demografi",
+        "path": "/images/plaace/thorvald-meyers-gate-2/demografi.jpg",
+        "beskrivelse": "Demografisk data",
+        "kategori": "demografi"
+      },
+      {
+        "filnavn": "bevegelse",
+        "path": "/images/plaace/thorvald-meyers-gate-2/bevegelse.jpg",
+        "beskrivelse": "Bevegelsesdata",
+        "kategori": "utvikling"
+      },
+      {
+        "filnavn": "besokende",
+        "path": "/images/plaace/thorvald-meyers-gate-2/besokende.jpg",
+        "beskrivelse": "Besøkende",
+        "kategori": "utvikling"
+      }
+    ],
+    "nokkeldata": {
+      "prisniva": null,
+      "leieinntekter": null,
+      "befolkning": null,
+      "gjennomsnittsinntekt": null,
+      "arbeidsledighet": null
+    }
+  },
+  "tilleggsinfo": {
+    "historikk": "Eiendom i Thorvald Meyers gate 2",
+    "kontaktperson": "Eiendomsspar",
+    "notater": [],
+    "lenker": []
+  },
+  "metadata": {
+    "opprettet": "2025-11-17T14:02:00.004Z",
+    "sistOppdatert": "2025-11-17T14:02:00.004Z",
+    "status": "publisert",
+    "versjon": 1
+  }
+}

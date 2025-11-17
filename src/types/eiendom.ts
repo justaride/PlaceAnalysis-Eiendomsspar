@@ -4,8 +4,8 @@
 export interface Eiendom {
   id: string;
   adresse: string;
-  gnr: number;
-  bnr: number;
+  gnr?: number | null;
+  bnr?: number | null;
   beskrivelse?: string;
   heroImage?: string;
   mapImage?: string;
@@ -34,16 +34,16 @@ export interface Screenshot {
 }
 
 export interface Nokkeldata {
-  prisniva?: string; // f.eks. "NOK 53000/m2"
-  leieinntekter?: string;
-  befolkning?: number;
-  gjennomsnittsinntekt?: string;
-  arbeidsledighet?: number;
-  areal?: string;
-  arealKontor?: string;
-  arealServering?: string;
-  byggeaar?: string;
-  energimerke?: string;
+  prisniva?: string | null; // f.eks. "NOK 53000/m2"
+  leieinntekter?: string | null;
+  befolkning?: number | null;
+  gjennomsnittsinntekt?: string | null;
+  arbeidsledighet?: number | null;
+  areal?: string | null;
+  arealKontor?: string | null;
+  arealServering?: string | null;
+  byggeaar?: string | null;
+  energimerke?: string | null;
 }
 
 export interface DemografiData {

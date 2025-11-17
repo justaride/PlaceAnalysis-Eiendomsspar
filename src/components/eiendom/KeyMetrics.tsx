@@ -7,8 +7,8 @@ interface KeyMetricsProps {
   totalActors?: number;
   topCategory?: string;
   growthRate?: number;
-  energyRating?: string;
-  buildingArea?: string;
+  energyRating?: string | null;
+  buildingArea?: string | null;
 }
 
 export default function KeyMetrics({
@@ -45,7 +45,7 @@ export default function KeyMetrics({
   if (totalRevenue && totalRevenue > 0) {
     metrics.push({
       label: 'Total omsetning',
-      value: totalRevenue,
+      value: Math.round(totalRevenue),
       suffix: 'M NOK',
       icon: '💰',
       description: 'Område totalt',

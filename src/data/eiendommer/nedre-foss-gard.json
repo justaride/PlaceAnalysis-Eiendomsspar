@@ -1,0 +1,846 @@
+{
+  "id": "nedre-foss-gard",
+  "adresse": "Nedre Foss Gård",
+  "beskrivelse": "Placeanalyse for Nedre Foss Gård",
+  "heroImage": "/images/plaace/nedre-foss-gard/hero.jpg",
+  "mapImage": "/images/plaace/nedre-foss-gard/map.png",
+  "aktorer": [
+    {
+      "navn": "Uno-X Automat Uno-X Fredensborg",
+      "omsetning": 88,
+      "yoyVekst": -4,
+      "ansatte": 0,
+      "markedsandel": 7.53
+    },
+    {
+      "navn": "Vinmonopolet Nordregate Oslo",
+      "omsetning": 73,
+      "yoyVekst": -5,
+      "ansatte": 13,
+      "markedsandel": 6.25
+    },
+    {
+      "navn": "Rema 1000 Vulkan",
+      "omsetning": 72,
+      "yoyVekst": 4,
+      "ansatte": 17,
+      "markedsandel": 6.11
+    },
+    {
+      "navn": "Kiwi Minipris Markveien",
+      "omsetning": 69,
+      "yoyVekst": 7,
+      "ansatte": 18,
+      "markedsandel": 5.91
+    },
+    {
+      "navn": "Nedre Foss",
+      "omsetning": 56,
+      "yoyVekst": -7,
+      "ansatte": 90,
+      "markedsandel": 4.78
+    },
+    {
+      "navn": "Chillout Oslo",
+      "omsetning": 40,
+      "yoyVekst": 53,
+      "ansatte": 27,
+      "markedsandel": 3.45
+    },
+    {
+      "navn": "Frøken Dianas Salonger AS",
+      "omsetning": 38,
+      "yoyVekst": 45,
+      "ansatte": 17,
+      "markedsandel": 3.26
+    },
+    {
+      "navn": "Fitness 24 Seven Markveien Senter",
+      "omsetning": 36,
+      "yoyVekst": 12,
+      "ansatte": 12,
+      "markedsandel": 3.08
+    },
+    {
+      "navn": "Scene Og Pubdrift AS",
+      "omsetning": 29,
+      "yoyVekst": -7,
+      "ansatte": 41,
+      "markedsandel": 2.44
+    },
+    {
+      "navn": "Vulkanfisk Butikk Mathallen Oslo",
+      "omsetning": 27,
+      "yoyVekst": 14,
+      "ansatte": 19,
+      "markedsandel": 2.3
+    },
+    {
+      "navn": "Kem - Kunstnernes Eget Materialutsa",
+      "omsetning": 26,
+      "yoyVekst": -4,
+      "ansatte": 17,
+      "markedsandel": 2.22
+    },
+    {
+      "navn": "Scandic Vulkan",
+      "omsetning": 24,
+      "yoyVekst": -0.9,
+      "ansatte": 44,
+      "markedsandel": 2.06
+    },
+    {
+      "navn": "Way Down South",
+      "omsetning": 24,
+      "yoyVekst": 44,
+      "ansatte": 24,
+      "markedsandel": 2.08
+    },
+    {
+      "navn": "Hrimnir Ramen AS",
+      "omsetning": 23,
+      "yoyVekst": 29,
+      "ansatte": 44,
+      "markedsandel": 1.94
+    },
+    {
+      "navn": "Smak Av Italia Maridalsveien",
+      "omsetning": 21,
+      "yoyVekst": 18,
+      "ansatte": 15,
+      "markedsandel": 1.76
+    },
+    {
+      "navn": "Boots Apotek Grünerløkka",
+      "omsetning": 20,
+      "yoyVekst": -10,
+      "ansatte": 8,
+      "markedsandel": 1.7
+    },
+    {
+      "navn": "Hot Temper AS",
+      "omsetning": 19,
+      "yoyVekst": 62,
+      "ansatte": 18,
+      "markedsandel": 1.58
+    },
+    {
+      "navn": "Galopin",
+      "omsetning": 16,
+      "yoyVekst": 15,
+      "ansatte": 17,
+      "markedsandel": 1.38
+    },
+    {
+      "navn": "Gutta På Haugen AS Avd Mathallen",
+      "omsetning": 15,
+      "yoyVekst": 3,
+      "ansatte": 0,
+      "markedsandel": 1.28
+    },
+    {
+      "navn": "Vulkan Burgerbar",
+      "omsetning": 14,
+      "yoyVekst": -12,
+      "ansatte": 15,
+      "markedsandel": 1.2
+    },
+    {
+      "navn": "Restaurant Kontrast AS",
+      "omsetning": 14,
+      "yoyVekst": 5,
+      "ansatte": 16,
+      "markedsandel": 1.22
+    },
+    {
+      "navn": "Dapper",
+      "omsetning": 13,
+      "yoyVekst": 5475,
+      "ansatte": 11,
+      "markedsandel": 1.11
+    },
+    {
+      "navn": "Dss Engros AS",
+      "omsetning": 12,
+      "yoyVekst": 0,
+      "ansatte": 0,
+      "markedsandel": 0.99
+    },
+    {
+      "navn": "Sprell Grünerløkka",
+      "omsetning": 11,
+      "yoyVekst": -6,
+      "ansatte": 8,
+      "markedsandel": 0.9
+    },
+    {
+      "navn": "Markveien Mat & Vinhus",
+      "omsetning": 11,
+      "yoyVekst": -11,
+      "ansatte": 23,
+      "markedsandel": 0.92
+    },
+    {
+      "navn": "Restaurant Avalon AS",
+      "omsetning": 11,
+      "yoyVekst": 0,
+      "ansatte": 15,
+      "markedsandel": 0.94
+    },
+    {
+      "navn": "Bryggmester Bob AS",
+      "omsetning": 11,
+      "yoyVekst": 0,
+      "ansatte": 12,
+      "markedsandel": 0.97
+    },
+    {
+      "navn": "Døgnvill Drift AS",
+      "omsetning": 10,
+      "yoyVekst": 4,
+      "ansatte": 4,
+      "markedsandel": 0.82
+    },
+    {
+      "navn": "Elite Foto AS",
+      "omsetning": 10,
+      "yoyVekst": null,
+      "ansatte": 12,
+      "markedsandel": 0.85
+    },
+    {
+      "navn": "Norli Grünerløkka, Oslo",
+      "omsetning": 10,
+      "yoyVekst": 149,
+      "ansatte": 6,
+      "markedsandel": 0.88
+    },
+    {
+      "navn": "Plantasjen Grünerløkka",
+      "omsetning": 10,
+      "yoyVekst": 6,
+      "ansatte": 10,
+      "markedsandel": 0.88
+    },
+    {
+      "navn": "Breddos Tacos AS",
+      "omsetning": 9,
+      "yoyVekst": -13,
+      "ansatte": 21,
+      "markedsandel": 0.74
+    },
+    {
+      "navn": "Ember Vinbar",
+      "omsetning": 9,
+      "yoyVekst": null,
+      "ansatte": 0,
+      "markedsandel": 0.76
+    },
+    {
+      "navn": "Kjell & Co Norway No031 Markveien",
+      "omsetning": 9,
+      "yoyVekst": 8,
+      "ansatte": 6,
+      "markedsandel": 0.76
+    },
+    {
+      "navn": "Illegal Burger Ryes Plass AS",
+      "omsetning": 9,
+      "yoyVekst": 0,
+      "ansatte": 70,
+      "markedsandel": 0.79
+    },
+    {
+      "navn": "The Tavern AS",
+      "omsetning": 9,
+      "yoyVekst": 31,
+      "ansatte": 18,
+      "markedsandel": 0.8
+    },
+    {
+      "navn": "Barramon Mathallen Oslo",
+      "omsetning": 8,
+      "yoyVekst": 8,
+      "ansatte": 10,
+      "markedsandel": 0.66
+    },
+    {
+      "navn": "Ganni Norway AS Avd Postmodern Oslo",
+      "omsetning": 8,
+      "yoyVekst": 20,
+      "ansatte": 8,
+      "markedsandel": 0.67
+    },
+    {
+      "navn": "Frank Walton AS",
+      "omsetning": 8,
+      "yoyVekst": 7,
+      "ansatte": 10,
+      "markedsandel": 0.67
+    },
+    {
+      "navn": "Espresso House Nordregate 801",
+      "omsetning": 8,
+      "yoyVekst": 13,
+      "ansatte": 13,
+      "markedsandel": 0.68
+    },
+    {
+      "navn": "Kafe Hærverk AS",
+      "omsetning": 8,
+      "yoyVekst": 32,
+      "ansatte": 17,
+      "markedsandel": 0.7
+    },
+    {
+      "navn": "Fyrhuset Kuba Drift AS",
+      "omsetning": 8,
+      "yoyVekst": -20,
+      "ansatte": 14,
+      "markedsandel": 0.7
+    },
+    {
+      "navn": "7-Eleven Thorvald Meyers Gate",
+      "omsetning": 7,
+      "yoyVekst": 203,
+      "ansatte": 8,
+      "markedsandel": 0.59
+    },
+    {
+      "navn": "Seglem AS",
+      "omsetning": 7,
+      "yoyVekst": -2,
+      "ansatte": 9,
+      "markedsandel": 0.61
+    },
+    {
+      "navn": "Vega Snackbar AS",
+      "omsetning": 7,
+      "yoyVekst": -1,
+      "ansatte": 15,
+      "markedsandel": 0.62
+    },
+    {
+      "navn": "Standard (oslo) AS",
+      "omsetning": 7,
+      "yoyVekst": -21,
+      "ansatte": 7,
+      "markedsandel": 0.62
+    },
+    {
+      "navn": "Grytelokket Sentrum AS",
+      "omsetning": 6,
+      "yoyVekst": 0,
+      "ansatte": 9,
+      "markedsandel": 0.48
+    },
+    {
+      "navn": "Øltorget AS",
+      "omsetning": 6,
+      "yoyVekst": 9,
+      "ansatte": 12,
+      "markedsandel": 0.49
+    },
+    {
+      "navn": "Livid Vintage AS",
+      "omsetning": 6,
+      "yoyVekst": 15,
+      "ansatte": 8,
+      "markedsandel": 0.49
+    },
+    {
+      "navn": "Bar Vulkan",
+      "omsetning": 6,
+      "yoyVekst": -46,
+      "ansatte": 19,
+      "markedsandel": 0.49
+    },
+    {
+      "navn": "På Håret Grunerløkka",
+      "omsetning": 6,
+      "yoyVekst": 31,
+      "ansatte": 9,
+      "markedsandel": 0.51
+    },
+    {
+      "navn": "Stockfleths Schous Plass",
+      "omsetning": 6,
+      "yoyVekst": -12,
+      "ansatte": 14,
+      "markedsandel": 0.51
+    },
+    {
+      "navn": "Elektropluss",
+      "omsetning": 6,
+      "yoyVekst": 29,
+      "ansatte": 5,
+      "markedsandel": 0.53
+    },
+    {
+      "navn": "Atelier Asian Tapas Mathallen Oslo",
+      "omsetning": 6,
+      "yoyVekst": 3,
+      "ansatte": 8,
+      "markedsandel": 0.55
+    },
+    {
+      "navn": "Fretex Miljø Butikk Grunerløkka Oslo",
+      "omsetning": 6,
+      "yoyVekst": -19,
+      "ansatte": 11,
+      "markedsandel": 0.55
+    },
+    {
+      "navn": "Pauls Boutique",
+      "omsetning": 6,
+      "yoyVekst": 17,
+      "ansatte": 13,
+      "markedsandel": 0.55
+    },
+    {
+      "navn": "Rebella AS",
+      "omsetning": 5,
+      "yoyVekst": null,
+      "ansatte": 5,
+      "markedsandel": 0.38
+    },
+    {
+      "navn": "Marmaris Storgata",
+      "omsetning": 5,
+      "yoyVekst": 0,
+      "ansatte": 10,
+      "markedsandel": 0.41
+    },
+    {
+      "navn": "Mevlana Frukt & Grønt AS",
+      "omsetning": 5,
+      "yoyVekst": 3,
+      "ansatte": 4,
+      "markedsandel": 0.42
+    },
+    {
+      "navn": "Via Italia AS",
+      "omsetning": 5,
+      "yoyVekst": -4,
+      "ansatte": 14,
+      "markedsandel": 0.42
+    },
+    {
+      "navn": "Roma Pizzeria Oslo",
+      "omsetning": 5,
+      "yoyVekst": 5,
+      "ansatte": 5,
+      "markedsandel": 0.43
+    },
+    {
+      "navn": "Torso Vulkan AS",
+      "omsetning": 5,
+      "yoyVekst": 7,
+      "ansatte": 7,
+      "markedsandel": 0.43
+    },
+    {
+      "navn": "Olivenlunden 1830 Grünerløkka",
+      "omsetning": 4,
+      "yoyVekst": 24,
+      "ansatte": 6,
+      "markedsandel": 0.3
+    },
+    {
+      "navn": "Pizzeria & Vino La Famiglia AS",
+      "omsetning": 4,
+      "yoyVekst": null,
+      "ansatte": 8,
+      "markedsandel": 0.31
+    },
+    {
+      "navn": "Hvice AS",
+      "omsetning": 4,
+      "yoyVekst": 22,
+      "ansatte": 5,
+      "markedsandel": 0.32
+    },
+    {
+      "navn": "Pelspels Vulkan",
+      "omsetning": 4,
+      "yoyVekst": 0.3,
+      "ansatte": 5,
+      "markedsandel": 0.34
+    },
+    {
+      "navn": "Pelspels Markveien",
+      "omsetning": 4,
+      "yoyVekst": 21,
+      "ansatte": 5,
+      "markedsandel": 0.34
+    },
+    {
+      "navn": "Storgata Platebar AS",
+      "omsetning": 4,
+      "yoyVekst": 9,
+      "ansatte": 12,
+      "markedsandel": 0.35
+    },
+    {
+      "navn": "Sjøden Gudrun AS",
+      "omsetning": 4,
+      "yoyVekst": 14,
+      "ansatte": 0,
+      "markedsandel": 0.35
+    },
+    {
+      "navn": "Simply Tasty AS",
+      "omsetning": 4,
+      "yoyVekst": 4,
+      "ansatte": 7,
+      "markedsandel": 0.38
+    },
+    {
+      "navn": "Lash Bar AS",
+      "omsetning": 3,
+      "yoyVekst": 0,
+      "ansatte": 4,
+      "markedsandel": 0.22
+    },
+    {
+      "navn": "Zagros Konditori AS",
+      "omsetning": 3,
+      "yoyVekst": 1,
+      "ansatte": 7,
+      "markedsandel": 0.22
+    },
+    {
+      "navn": "Pizzavino Mathallen Oslo",
+      "omsetning": 3,
+      "yoyVekst": -48,
+      "ansatte": 7,
+      "markedsandel": 0.23
+    },
+    {
+      "navn": "Fontanas Kjøkken Markveien Senter",
+      "omsetning": 3,
+      "yoyVekst": -25,
+      "ansatte": 4,
+      "markedsandel": 0.24
+    },
+    {
+      "navn": "Byteraffineriet AS",
+      "omsetning": 3,
+      "yoyVekst": 19,
+      "ansatte": 4,
+      "markedsandel": 0.25
+    },
+    {
+      "navn": "Barcode Pubdrift AS",
+      "omsetning": 3,
+      "yoyVekst": -46,
+      "ansatte": 9,
+      "markedsandel": 0.27
+    },
+    {
+      "navn": "Glåmdal Sykkelverksted AS",
+      "omsetning": 3,
+      "yoyVekst": 17,
+      "ansatte": 4,
+      "markedsandel": 0.28
+    },
+    {
+      "navn": "Tint",
+      "omsetning": 3,
+      "yoyVekst": -5,
+      "ansatte": 3,
+      "markedsandel": 0.28
+    },
+    {
+      "navn": "Kaibosh",
+      "omsetning": 3,
+      "yoyVekst": 40,
+      "ansatte": 4,
+      "markedsandel": 0.28
+    },
+    {
+      "navn": "Omakasia AS",
+      "omsetning": 3,
+      "yoyVekst": -2,
+      "ansatte": 6,
+      "markedsandel": 0.28
+    },
+    {
+      "navn": "Balanzera Organic Hairdressing",
+      "omsetning": 3,
+      "yoyVekst": -5,
+      "ansatte": 7,
+      "markedsandel": 0.29
+    },
+    {
+      "navn": "Vulkanfisk Sjømatbar Mathallen Oslo",
+      "omsetning": 3,
+      "yoyVekst": 14,
+      "ansatte": 2,
+      "markedsandel": 0.29
+    },
+    {
+      "navn": "Le Pain Mathallen AS",
+      "omsetning": 3,
+      "yoyVekst": -10,
+      "ansatte": 9,
+      "markedsandel": 0.29
+    },
+    {
+      "navn": "M35 Collective AS",
+      "omsetning": 3,
+      "yoyVekst": -25,
+      "ansatte": 3,
+      "markedsandel": 0.3
+    },
+    {
+      "navn": "Faryabi Skinnverksted AS",
+      "omsetning": 2,
+      "yoyVekst": 28,
+      "ansatte": 2,
+      "markedsandel": 0.13
+    },
+    {
+      "navn": "Xaki AS",
+      "omsetning": 2,
+      "yoyVekst": 84,
+      "ansatte": 5,
+      "markedsandel": 0.14
+    },
+    {
+      "navn": "Smash By Ghost Town AS",
+      "omsetning": 2,
+      "yoyVekst": null,
+      "ansatte": 7,
+      "markedsandel": 0.14
+    },
+    {
+      "navn": "Dogman Butikker AS Avd Grünerløkka",
+      "omsetning": 2,
+      "yoyVekst": 1177,
+      "ansatte": 5,
+      "markedsandel": 0.14
+    },
+    {
+      "navn": "Signature Nails & Spa AS",
+      "omsetning": 2,
+      "yoyVekst": 0.5,
+      "ansatte": 3,
+      "markedsandel": 0.15
+    },
+    {
+      "navn": "Love Tea & Sushi V/ Dang",
+      "omsetning": 2,
+      "yoyVekst": -51,
+      "ansatte": 3,
+      "markedsandel": 0.15
+    },
+    {
+      "navn": "Grillin AS",
+      "omsetning": 2,
+      "yoyVekst": -52,
+      "ansatte": 24,
+      "markedsandel": 0.17
+    },
+    {
+      "navn": "Refresh Mathallen",
+      "omsetning": 2,
+      "yoyVekst": 4,
+      "ansatte": 12,
+      "markedsandel": 0.17
+    },
+    {
+      "navn": "Olio Beauty AS Avd Markveien",
+      "omsetning": 2,
+      "yoyVekst": -17,
+      "ansatte": 3,
+      "markedsandel": 0.18
+    },
+    {
+      "navn": "Vin Oslo AS",
+      "omsetning": 2,
+      "yoyVekst": -26,
+      "ansatte": 11,
+      "markedsandel": 0.2
+    },
+    {
+      "navn": "Sebastienbruno Mathallen Oslo",
+      "omsetning": 1,
+      "yoyVekst": 0,
+      "ansatte": 0,
+      "markedsandel": 0.09
+    },
+    {
+      "navn": "Alsalam AS",
+      "omsetning": 1,
+      "yoyVekst": -14,
+      "ansatte": 1,
+      "markedsandel": 0.1
+    },
+    {
+      "navn": "Korsgata 25 Restaurant AS",
+      "omsetning": 1,
+      "yoyVekst": -83,
+      "ansatte": 3,
+      "markedsandel": 0.1
+    },
+    {
+      "navn": "Door N6",
+      "omsetning": 1,
+      "yoyVekst": 93,
+      "ansatte": 1,
+      "markedsandel": 0.11
+    },
+    {
+      "navn": "Kondracki AS",
+      "omsetning": 1,
+      "yoyVekst": 29,
+      "ansatte": 7,
+      "markedsandel": 0.13
+    },
+    {
+      "navn": "Løkka Frisør AS",
+      "omsetning": 1,
+      "yoyVekst": -25,
+      "ansatte": 3,
+      "markedsandel": 0.13
+    },
+    {
+      "navn": "Retrolykke Herretrikotasje AS",
+      "omsetning": 920,
+      "yoyVekst": -34,
+      "ansatte": 3,
+      "markedsandel": 0.08
+    },
+    {
+      "navn": "Bråthen S Fotograf AS",
+      "omsetning": 910,
+      "yoyVekst": 21,
+      "ansatte": 2,
+      "markedsandel": 0.08
+    },
+    {
+      "navn": "Dangerous Club AS",
+      "omsetning": 820,
+      "yoyVekst": -72,
+      "ansatte": 9,
+      "markedsandel": 0.07
+    },
+    {
+      "navn": "Nilsen Ekata",
+      "omsetning": 790,
+      "yoyVekst": null,
+      "ansatte": 1,
+      "markedsandel": 0.07
+    },
+    {
+      "navn": "Bakeriet Cupcake & Pie AS",
+      "omsetning": 620,
+      "yoyVekst": null,
+      "ansatte": 5,
+      "markedsandel": 0.05
+    },
+    {
+      "navn": "Logicus AS",
+      "omsetning": 610,
+      "yoyVekst": 0,
+      "ansatte": 6,
+      "markedsandel": 0.05
+    },
+    {
+      "navn": "Standard Books AS",
+      "omsetning": 590,
+      "yoyVekst": -83,
+      "ansatte": 0,
+      "markedsandel": 0.05
+    },
+    {
+      "navn": "Tarka AS",
+      "omsetning": 580,
+      "yoyVekst": null,
+      "ansatte": 7,
+      "markedsandel": 0.05
+    },
+    {
+      "navn": "Wining AS",
+      "omsetning": 530,
+      "yoyVekst": null,
+      "ansatte": 0,
+      "markedsandel": 0.04
+    },
+    {
+      "navn": "Frank Walton",
+      "omsetning": 250,
+      "yoyVekst": -35,
+      "ansatte": 0,
+      "markedsandel": 0.02
+    },
+    {
+      "navn": "Soy Vulkan",
+      "omsetning": 90,
+      "yoyVekst": null,
+      "ansatte": 14,
+      "markedsandel": 0.01
+    }
+  ],
+  "plaaceData": {
+    "rapportDato": "2025-11-17T14:02:00.002Z",
+    "screenshots": [
+      {
+        "filnavn": "nokkeldata",
+        "path": "/images/plaace/nedre-foss-gard/nokkeldata.png",
+        "beskrivelse": "Nøkkeldata og statistikk",
+        "kategori": "oversikt"
+      },
+      {
+        "filnavn": "korthandel",
+        "path": "/images/plaace/nedre-foss-gard/korthandel.jpg",
+        "beskrivelse": "Korthandel og transaksjoner",
+        "kategori": "marked"
+      },
+      {
+        "filnavn": "konkurransebildet",
+        "path": "/images/plaace/nedre-foss-gard/konkurransebildet.jpg",
+        "beskrivelse": "Konkurransebildet",
+        "kategori": "marked"
+      },
+      {
+        "filnavn": "demografi",
+        "path": "/images/plaace/nedre-foss-gard/demografi.jpg",
+        "beskrivelse": "Demografisk data",
+        "kategori": "demografi"
+      },
+      {
+        "filnavn": "bevegelse",
+        "path": "/images/plaace/nedre-foss-gard/bevegelse.jpg",
+        "beskrivelse": "Bevegelsesdata",
+        "kategori": "utvikling"
+      },
+      {
+        "filnavn": "besokende",
+        "path": "/images/plaace/nedre-foss-gard/besokende.jpg",
+        "beskrivelse": "Besøkende",
+        "kategori": "utvikling"
+      }
+    ],
+    "nokkeldata": {
+      "prisniva": null,
+      "leieinntekter": null,
+      "befolkning": null,
+      "gjennomsnittsinntekt": null,
+      "arbeidsledighet": null
+    }
+  },
+  "tilleggsinfo": {
+    "historikk": "Eiendom i Nedre Foss Gård",
+    "kontaktperson": "Eiendomsspar",
+    "notater": [],
+    "lenker": []
+  },
+  "metadata": {
+    "opprettet": "2025-11-17T14:02:00.003Z",
+    "sistOppdatert": "2025-11-17T14:02:00.003Z",
+    "status": "publisert",
+    "versjon": 1
+  }
+}

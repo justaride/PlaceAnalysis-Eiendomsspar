@@ -53,16 +53,14 @@ export default function Header() {
             <span className="text-lg text-gray-400">,</span>
             <span className="text-sm font-light text-gray-500">for</span>
             <Link
-              href="https://mayaeiendom.no"
-              target="_blank"
-              rel="noopener noreferrer"
+              href="/"
               className="flex items-center transition-opacity hover:opacity-70"
             >
               <Image
-                src="/images/maya-logo.jpg"
-                alt="Maya Eiendom"
+                src="/images/eiendomsspar-logo.png"
+                alt="Eiendomsspar"
                 width={140}
-                height={50}
+                height={70}
                 className="h-[40px] w-auto"
               />
             </Link>

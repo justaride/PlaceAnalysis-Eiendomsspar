@@ -134,7 +134,7 @@ export default function AktorListe({ actors, categoryStats, metadata }: AktorLis
               <div className="mb-2 text-sm font-medium uppercase tracking-wider text-lokka-secondary">
                 Total omsetning
               </div>
-              <div className="text-4xl font-bold text-lokka-primary">{totalRevenue}</div>
+              <div className="text-4xl font-bold text-lokka-primary">{Math.round(totalRevenue)}</div>
               <div className="mt-2 text-sm text-lokka-accent">NOK millioner</div>
             </div>
           </FadeIn>

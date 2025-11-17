@@ -15,11 +15,11 @@ export const ScreenshotSchema = z.object({
 });
 
 export const NokkelDataSchema = z.object({
-  prisniva: z.string().optional(),
-  leieinntekter: z.string().optional(),
-  befolkning: z.number().positive().optional(),
-  gjennomsnittsinntekt: z.string().optional(),
-  arbeidsledighet: z.number().min(0).max(100).optional(),
+  prisniva: z.string().nullable().optional(),
+  leieinntekter: z.string().nullable().optional(),
+  befolkning: z.number().positive().nullable().optional(),
+  gjennomsnittsinntekt: z.string().nullable().optional(),
+  arbeidsledighet: z.number().min(0).max(100).nullable().optional(),
 });
 
 export const PlaaceDataSchema = z.object({
@@ -55,8 +55,8 @@ export const PlaaceDataSchema = z.object({
 export const EiendomSchema = z.object({
   id: z.string().min(1),
   adresse: z.string().min(1),
-  gnr: z.number().positive(),
-  bnr: z.number().positive(),
+  gnr: z.number().positive().nullable().optional(),
+  bnr: z.number().positive().nullable().optional(),
   beskrivelse: z.string().optional(),
   heroImage: z.string().optional(),
   mapImage: z.string().optional(),

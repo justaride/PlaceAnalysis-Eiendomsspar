@@ -3,7 +3,7 @@ import { Card, CardHeader, CardTitle, CardContent } from '@/components/ui/Card';
 
 export const metadata = {
   title: 'Om Prosjektet',
-  description: 'Informasjon om Place Analysis Løkka prosjektet',
+  description: 'Informasjon om Eiendomsspar eiendomsanalyse prosjektet',
 };
 
 export default function OmProsjektetPage() {
@@ -20,9 +20,8 @@ export default function OmProsjektetPage() {
           </CardHeader>
           <CardContent>
             <p className="text-gray-600">
-              Place Analysis Løkka er en nettside for Løkka Gårdeierforening som
-              samler og presenterer omfattende placeanalyser for eiendommer i
-              området. Målet er å gi medlemmene tilgang til verdifull
+              Eiendomsspar Eiendomsanalyse samler og presenterer omfattende placeanalyser
+              for eiendommer i porteføljen. Målet er å gi tilgang til verdifull
               eiendomsinformasjon, demografi og markedsdata.
             </p>
           </CardContent>
@@ -60,7 +59,7 @@ export default function OmProsjektetPage() {
           </CardHeader>
           <CardContent>
             <p className="text-gray-600">
-              For spørsmål om prosjektet, kontakt Løkka Gårdeierforening.
+              For spørsmål om prosjektet, kontakt Eiendomsspar.
             </p>
           </CardContent>
         </Card>
