@@ -22,6 +22,11 @@ export default function AnalyseSelector({ plaaceData, plaaceAnalyses }: AnalyseS
       ? plaaceAnalyses.find(a => a.id === selectedAnalyseId) || plaaceAnalyses[0]
       : plaaceAnalyses[0];
 
+    // Safety check
+    if (!currentAnalyse) {
+      return null;
+    }
+
     return (
       <div className="mb-12 md:mb-20">
         {plaaceAnalyses.length > 1 && (
