@@ -1,7 +1,7 @@
 import { notFound } from 'next/navigation';
 import { lastEiendom, hentAlleEiendomsIder } from '@/lib/eiendom-loader';
 import Container from '@/components/ui/Container';
-import TabbedImageViewer from '@/components/eiendom/TabbedImageViewer';
+import AnalyseSelector from '@/components/eiendom/AnalyseSelector';
 import KeyMetrics from '@/components/eiendom/KeyMetrics';
 import EiendomsprofilExpander from '@/components/eiendom/EiendomsprofilExpander';
 import AktorListe from '@/components/eiendom/AktorListe';
@@ -214,13 +214,11 @@ export default async function EiendomPage({ params }: PageProps) {
           />
         )}
 
-        {/* Plaace Analytics - Tabbed Interface */}
-        {eiendom.plaaceData.screenshots.length > 0 && (
-          <TabbedImageViewer
-            screenshots={eiendom.plaaceData.screenshots}
-            title="Plaace Stedsanalyse"
-          />
-        )}
+        {/* Plaace Analytics - Multiple analyses support */}
+        <AnalyseSelector
+          plaaceData={eiendom.plaaceData}
+          plaaceAnalyses={eiendom.plaaceAnalyses}
+        />
 
       </Container>
 

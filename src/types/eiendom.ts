@@ -4,8 +4,8 @@
 export interface Eiendom {
   id: string;
   adresse: string;
-  gnr?: number | null;
-  bnr?: number | null;
+  gnr: number;
+  bnr: number;
   beskrivelse?: string;
   heroImage?: string;
   mapImage?: string;
@@ -14,8 +14,34 @@ export interface Eiendom {
     lng: number;
   };
   plaaceData: PlaaceData;
+  plaaceAnalyses?: PlaaceAnalyse[]; // Multiple analyses support
   tilleggsinfo: Tilleggsinfo;
   metadata: Metadata;
+}
+
+/**
+ * Individual Plaace analysis with specific parameters
+ */
+export interface PlaaceAnalyse {
+  id: string; // e.g., "5min-walk", "1min-walk", "custom-1"
+  tittel: string; // e.g., "5 minutters gange", "1 minutts gange"
+  beskrivelse?: string; // Optional description of this analysis
+  parametere: AnalyseParametere;
+  rapportDato: string; // ISO date string
+  screenshots: Screenshot[];
+  nokkeldata: Nokkeldata;
+  demografi?: DemografiData;
+  marked?: MarkedData;
+}
+
+/**
+ * Parameters used for this specific analysis
+ */
+export interface AnalyseParametere {
+  gangeavstand?: string; // e.g., "5 minutter", "1 minutt"
+  radius?: number; // meters
+  transporttype?: 'gange' | 'sykkel' | 'bil' | 'kollektiv';
+  notater?: string;
 }
 
 export interface PlaaceData {
@@ -34,16 +60,16 @@ export interface Screenshot {
 }
 
 export interface Nokkeldata {
-  prisniva?: string | null; // f.eks. "NOK 53000/m2"
-  leieinntekter?: string | null;
-  befolkning?: number | null;
-  gjennomsnittsinntekt?: string | null;
-  arbeidsledighet?: number | null;
-  areal?: string | null;
-  arealKontor?: string | null;
-  arealServering?: string | null;
-  byggeaar?: string | null;
-  energimerke?: string | null;
+  prisniva?: string; // f.eks. "NOK 53000/m2"
+  leieinntekter?: string;
+  befolkning?: number;
+  gjennomsnittsinntekt?: string;
+  arbeidsledighet?: number;
+  areal?: string;
+  arealKontor?: string;
+  arealServering?: string;
+  byggeaar?: string;
+  energimerke?: string;
 }
 
 export interface DemografiData {

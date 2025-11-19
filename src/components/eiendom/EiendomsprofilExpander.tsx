@@ -55,6 +55,22 @@ export default function EiendomsprofilExpander({
                 {adresse.toUpperCase()} – EIENDOMSPROFIL
               </h2>
             </div>
+
+            {/* Development Notice */}
+            <div className="mb-6 rounded-lg border-2 border-blue-200 bg-blue-50 p-5">
+              <div className="flex items-start gap-3">
+                <div className="text-2xl">📝</div>
+                <div>
+                  <h4 className="mb-2 text-sm font-bold text-blue-900">
+                    Under utvikling
+                  </h4>
+                  <p className="text-sm leading-relaxed text-blue-800">
+                    Eiendomsprofilen er under utvikling for alle eiendommer. Vi ønsker gjerne underlag og detaljer fra eieren for å berike denne profilen med mer informasjon og historikk.
+                  </p>
+                </div>
+              </div>
+            </div>
+
             <ReactMarkdown
               components={{
                 h3: ({ ...props }) => (

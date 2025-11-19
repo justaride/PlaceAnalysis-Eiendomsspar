@@ -7,7 +7,7 @@ import { cn } from '@/lib/utils';
 const navItems = [
   { href: '/', label: 'Forside' },
   { href: '/eiendommer', label: 'Eiendommer' },
-  { href: '/sammenlign', label: 'Sammenlign', icon: '⚖️' },
+  // { href: '/sammenlign', label: 'Sammenlign', icon: '⚖️' }, // Hidden - under development
   { href: '/om-prosjektet', label: 'Om Prosjektet' },
 ];
 
