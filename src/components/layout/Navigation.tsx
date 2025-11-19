@@ -4,7 +4,13 @@ import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { cn } from '@/lib/utils';
 
-const navItems = [
+type NavItem = {
+  href: string;
+  label: string;
+  icon?: string;
+};
+
+const navItems: NavItem[] = [
   { href: '/', label: 'Forside' },
   { href: '/eiendommer', label: 'Eiendommer' },
   // { href: '/sammenlign', label: 'Sammenlign', icon: '⚖️' }, // Hidden - under development
@@ -32,7 +38,7 @@ export default function Navigation() {
                 : 'text-lokka-secondary hover:bg-gray-50 hover:text-lokka-primary'
             )}
           >
-            {'icon' in item && item.icon && <span className="text-base">{item.icon}</span>}
+            {item.icon && <span className="text-base">{item.icon}</span>}
             {item.label}
           </Link>
         );
